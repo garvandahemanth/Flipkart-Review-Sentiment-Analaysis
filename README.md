@@ -1,2 +1,2 @@
 # Flipkart-Review-Sentiment-Analaysis
-Flipkart Review Sentiment Analaysis using NLTK  in NLP
+Flipkart Review Sentiment Analaysis using NLTK  in NLP(Natrual Language processing)
